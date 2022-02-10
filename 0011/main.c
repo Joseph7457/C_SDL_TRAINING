@@ -8,6 +8,7 @@ SDL_Renderer *rendu;
 
 SDL_Event evenements;
 #include "evenements.h"
+#include "struct.h"
 
 int main()
 {
