@@ -1,5 +1,6 @@
 void draw()
 {
-printf("Premier milestone\n");
-SDL_Delay(3000);
+SDL_RenderClear(rendu);
+SDL_RenderPresent(rendu);
+//printf("Premier milestone\n");
 }
